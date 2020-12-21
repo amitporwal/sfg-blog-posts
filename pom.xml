@@ -39,7 +39,6 @@
     </dependencies>
 
     <packaging>pom</packaging>
-
     <description>Parent Project for SFG</description>
 
     <licenses>
@@ -85,5 +84,16 @@
         <module>springboot-lombok-part2</module>
         <module>spring-requestbody-annotation</module>
         <module>spring-bean-scopes</module>
+        <module>docker-layer-svc1</module>
+        <module>docker-layer-svc2</module>
+        <module>spring-boot-docker</module>
+        <module>publish-docker-image-to-docker-hub</module>
+        <module>fabric8-docker-maven</module>
+        <module>spring-boot-docker-compose</module>
+        <module>custom-queries-with-spring-data-jpa</module>
+        <module>rabbitmqspringapp</module>
+        <module>restserviceforproduct</module>
+        <module>testingspringbootrestfulservice</module>
+        <module>cachevict</module>
     </modules>
 </project>
